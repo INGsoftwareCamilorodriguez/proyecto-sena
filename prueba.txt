@@ -1,0 +1,3 @@
+nombre de usuario: juanito perez rojas
+
+contraseña: 123456789A
